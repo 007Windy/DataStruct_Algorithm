@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "code": "tsx ./leetCode/16.最接近的三数之和.ts",
+    "dev": "tsx treeNode.ts",
+    "start": "ts-node index.ts"
+  },
+  "dependencies": {
+    "tsc": "^2.0.4",
+    "tsx": "^4.17.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
